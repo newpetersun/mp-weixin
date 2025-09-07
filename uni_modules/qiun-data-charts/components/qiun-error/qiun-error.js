@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../../common/vendor.js"),r={name:"qiun-error",props:{errorMessage:{type:String,default:null}},data:()=>({})};const n=e._export_sfc(r,[["render",function(r,n,o,t,s,a){return{a:e.t(null==o.errorMessage?"请点击重试":o.errorMessage)}}]]);wx.createComponent(n);

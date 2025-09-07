@@ -1,0 +1,1 @@
+<view class="Customerdistribution-content"><qiun-data-charts wx:if="{{a}}" u-i="7fdfeec8-0" bind:__l="__l" u-p="{{a}}"/><view class="map-legend"><view wx:for="{{b}}" wx:for-item="item" wx:key="c" class="legend-item"><view class="legend-color" style="{{'background-color:' + item.a}}"></view><text class="legend-text">{{item.b}}</text></view></view></view>

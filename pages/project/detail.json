@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "项目详情",
+  "usingComponents": {
+    "loading": "../../components/Loading"
+  }
+}

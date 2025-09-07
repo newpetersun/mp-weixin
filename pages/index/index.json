@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "loading": "../../components/Loading",
+    "floating-buttons": "../../components/FloatingButtons",
+    "accessstatistics": "./components/Accessstatistics",
+    "customerdistribution": "./components/Customerdistribution"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "联系我们",
+  "usingComponents": {
+    "floating-buttons": "../../components/FloatingButtons",
+    "loading": "../../components/Loading"
+  }
+}

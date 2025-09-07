@@ -1,0 +1,1 @@
+<view class="accessstatistics-content"><qiun-data-charts wx:if="{{a}}" u-i="efd2d17e-0" bind:__l="__l" u-p="{{a}}"/></view>

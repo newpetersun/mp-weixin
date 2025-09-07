@@ -1,0 +1,1 @@
+"use strict";const e={name:"loading6",data:()=>({})};const n=require("../../../../common/vendor.js")._export_sfc(e,[["render",function(e,n,o,t,r,a){return{}}],["__scopeId","data-v-08a06125"]]);wx.createComponent(n);

@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "项目展示",
+  "usingComponents": {
+    "floating-buttons": "../../components/FloatingButtons",
+    "loading": "../../components/Loading"
+  }
+}

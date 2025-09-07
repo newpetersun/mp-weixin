@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/splash/splash",
+    "pages/index/index",
+    "pages/projects/projects",
+    "pages/project/detail",
+    "pages/contact/contact",
+    "pages/admin/dashboard",
+    "pages/admin/user",
+    "pages/admin/project",
+    "pages/admin/category",
+    "pages/admin/contact",
+    "pages/admin/message",
+    "pages/admin/setting",
+    "pages/admin/analytics",
+    "pages/admin/technology",
+    "pages/admin/progress"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "解忧青年",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#ffffff"
+  },
+  "usingComponents": {}
+}
