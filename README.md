@@ -2,7 +2,7 @@
 
 PeterSun是一个基于uni-app开发的跨平台个人作品展示应用，支持微信小程序、H5和App等多个平台，主要用于展示个人项目、技术栈和联系方式等信息。
 
-##在线演示
+## 在线演示
 
 ![小程序演示](https://github.com/newpetersun/mp-weixin/blob/master/static/xcx.jpg)
 
